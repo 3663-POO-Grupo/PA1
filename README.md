@@ -1,6 +1,3 @@
-<<<<<<< HEAD
--- ACA PONGAN EL CONTENIDO DEL README :D --
-=======
 # Programacion Orientada a Objetos PA1
 ## Sistema basico de registro y control de productos en consola
 
