@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Se traslado al archivo correcto el codigo de Dante Zosimo Alanya Molina
 public class SistemaControl {
 
     public static void main(String[] args) {
